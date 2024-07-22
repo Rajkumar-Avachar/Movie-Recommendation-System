@@ -1,2 +1,2 @@
 # Movie-Recommendation-System
-This is my project in the internship with YBI Foundation.
+This is my project in the Python Programming Internship with YBI Foundation.
